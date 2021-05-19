@@ -7,7 +7,7 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `jQuery`
 ####  About me:
 
 
-[LinkedIn](https://www.linkedin.com/in/srishti-v-08b9981b2)
+[LinkedIn](https://www.linkedin.com/in/suraj-tiwari-09b705194/)
 
 
-[Github](https://github.com/Srishti474)
+[Github](https://github.com/tiwari7suraj)
